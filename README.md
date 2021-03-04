@@ -11,9 +11,23 @@ Maree è l'alternativa che mancava per consultare in tempo reale la marea della 
 
 Aggiungere notifiche
 
-Aggiungere lingua <strike>Cinese</strike>, Giapponese e Tedesco.
+Passare al navigator 2.0
 
-Fixare bottone dammi i tuoi soldi
+Introdurre il package Beamer   https://pub.dev/packages/beamer
+
+Migrare al drawer https://pub.dev/packages/flutter_zoom_drawer se le prestazioni lo permettono
+
+Introdurre Provider https://pub.dev/packages/provider   FIGATA PAZZURDA -- Priotaria
+
+Fare un servizio per capire quando il Mose è attivo.
+
+Introdurre Nuova sezione Dettagli sul Mose.
+
+Aggiungere alla Home simboli Indicativi per lo stato delle sezioni non direttamente visualizzabili.
+
+Aggiungere l'impostazione Selezione dark/light theme :(default sistema/ force light / force dark)
+
+Aggiungere lingua <strike>Cinese</strike>, Giapponese e Tedesco.
 
 Mettere la pagina Miglior periodo per andare andare a pescare
 
